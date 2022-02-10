@@ -119,8 +119,8 @@ VALUES
   (9,6),
   (9,4),
   (9,3),
-  (10,2),
-  (10,6);
+(10,2),
+(10,6);
 
 INSERT INTO SpotifyClone.musicas (nome, id_album, duracao_segundos)
 VALUES
@@ -154,7 +154,7 @@ VALUES
   ('She Thinks I Wont Stay Tonight',8, 166),
   ('He Heard Youre Bad For Me',8, 154),
   ('He Hopes We Cant Stay',8, 210),
-  ('I know I know',8, 197),
+  ('I know I know',8, 117),
   ('Hes Walking Away',9, 159),
   ('Hes Trouble',9, 138),
   ('I Heard I Want To Bo Alone',9, 120),
