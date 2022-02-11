@@ -1,5 +1,5 @@
 SELECT 
-    CONVERT(MIN(valor),char) AS faturamento_minimo,
+    MIN(valor) AS faturamento_minimo,
     CONVERT(ROUND(MAX(valor), 2),char) AS faturamento_maximo,
     CONVERT(ROUND(AVG(valor), 2),char) AS faturamento_medio,
     CONVERT(ROUND(SUM(valor), 2),char) AS faturamento_total
