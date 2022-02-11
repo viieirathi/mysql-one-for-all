@@ -1,5 +1,5 @@
 SELECT 
-    a.nome AS artistas, b.nome AS album
+    a.nome AS artista, b.nome AS album
 FROM
     SpotifyClone.artistas AS a,
     SpotifyClone.album AS b
